@@ -1,0 +1,6 @@
+{
+  "name": "IMPTI Saju Dashboard",
+  "description": "사주와 MBTI를 결합한 하이브리드 성향 및 시간적 에너지 분석 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
